@@ -1,0 +1,4 @@
+playwright
+beautifulsoup4
+langchain-openai
+python-dotenv
